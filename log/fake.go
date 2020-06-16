@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/ctripcorp/nephele/context"
+	"github.com/bbiao/nephele/context"
 )
 
 type fakeLogger struct{}

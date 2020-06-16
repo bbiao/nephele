@@ -1,7 +1,7 @@
 package neph
 
 import (
-	"github.com/ctripcorp/nephele/interpret"
+	"github.com/bbiao/nephele/interpret"
 	"github.com/gin-gonic/gin"
 )
 

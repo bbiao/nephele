@@ -1,26 +1,26 @@
 package main
 
 import (
-	"github.com/ctripcorp/nephele/interpret"
-	"github.com/ctripcorp/nephele/process"
-	"github.com/ctripcorp/nephele/storage"
+	"github.com/bbiao/nephele/interpret"
+	"github.com/bbiao/nephele/process"
+	"github.com/bbiao/nephele/storage"
 
-	"github.com/ctripcorp/nephele/server"
-	"github.com/ctripcorp/nephele/util"
+	"github.com/bbiao/nephele/server"
+	"github.com/bbiao/nephele/util"
 
-	_ "github.com/ctripcorp/nephele/command/autoorient"
-	_ "github.com/ctripcorp/nephele/command/crop"
-	_ "github.com/ctripcorp/nephele/command/format"
-	_ "github.com/ctripcorp/nephele/command/quality"
-	_ "github.com/ctripcorp/nephele/command/resize"
-	_ "github.com/ctripcorp/nephele/command/rotate"
-	_ "github.com/ctripcorp/nephele/command/sharpen"
-	_ "github.com/ctripcorp/nephele/command/strip"
-	_ "github.com/ctripcorp/nephele/command/watermark"
+	_ "github.com/bbiao/nephele/command/autoorient"
+	_ "github.com/bbiao/nephele/command/crop"
+	_ "github.com/bbiao/nephele/command/format"
+	_ "github.com/bbiao/nephele/command/quality"
+	_ "github.com/bbiao/nephele/command/resize"
+	_ "github.com/bbiao/nephele/command/rotate"
+	_ "github.com/bbiao/nephele/command/sharpen"
+	_ "github.com/bbiao/nephele/command/strip"
+	_ "github.com/bbiao/nephele/command/watermark"
 
-	_ "github.com/ctripcorp/nephele/interpret/neph"
-	_ "github.com/ctripcorp/nephele/storage/neph"
-	_ "github.com/ctripcorp/nephele/server/ping"
+	_ "github.com/bbiao/nephele/interpret/neph"
+	_ "github.com/bbiao/nephele/storage/neph"
+	_ "github.com/bbiao/nephele/server/ping"
 )
 
 var Config = struct {

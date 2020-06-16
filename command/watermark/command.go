@@ -5,14 +5,14 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ctripcorp/nephele/command"
+	"github.com/bbiao/nephele/command"
 
-	"github.com/ctrip-nephele/gmagick"
-	"github.com/ctripcorp/nephele/storage"
+	"github.com/giantpoplar/gmagick"
+	"github.com/bbiao/nephele/storage"
 
 	"context"
 
-	"github.com/ctripcorp/nephele/util"
+	"github.com/bbiao/nephele/util"
 )
 
 //Watermark watermark command

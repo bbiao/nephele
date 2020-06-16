@@ -3,9 +3,9 @@ package format
 import (
 	"context"
 	"fmt"
-	"github.com/ctrip-nephele/gmagick"
-	"github.com/ctripcorp/nephele/command"
-	"github.com/ctripcorp/nephele/util"
+	"github.com/giantpoplar/gmagick"
+	"github.com/bbiao/nephele/command"
+	"github.com/bbiao/nephele/util"
 )
 
 type Command struct {

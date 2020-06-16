@@ -1,7 +1,7 @@
 package rotate
 
 import (
-	"github.com/ctripcorp/nephele/command"
+	"github.com/bbiao/nephele/command"
 )
 
 func init() {

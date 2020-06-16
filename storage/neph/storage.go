@@ -1,7 +1,7 @@
 package neph
 
 import (
-	stor "github.com/ctripcorp/nephele/storage"
+	stor "github.com/bbiao/nephele/storage"
 	"io/ioutil"
 	"path/filepath"
 )

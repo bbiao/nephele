@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	stor "github.com/ctripcorp/nephele/storage"
+	stor "github.com/bbiao/nephele/storage"
 )
 
 type file struct {

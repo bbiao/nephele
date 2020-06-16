@@ -1,7 +1,7 @@
 package ping
 
 import (
-	"github.com/ctripcorp/nephele/server"
+	"github.com/bbiao/nephele/server"
 	"github.com/gin-gonic/gin"
 )
 

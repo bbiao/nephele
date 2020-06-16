@@ -2,7 +2,7 @@ package command
 
 import (
 	"context"
-	"github.com/ctrip-nephele/gmagick"
+	"github.com/giantpoplar/gmagick"
 )
 
 var list map[string]func() Command

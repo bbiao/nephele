@@ -3,7 +3,7 @@ package autoorient
 import (
 	"context"
 
-	"github.com/ctrip-nephele/gmagick"
+	"github.com/giantpoplar/gmagick"
 )
 
 type Command struct {

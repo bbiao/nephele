@@ -3,7 +3,7 @@ package strip
 import (
 	"context"
 
-	"github.com/ctrip-nephele/gmagick"
+	"github.com/giantpoplar/gmagick"
 )
 
 //Strip strip command

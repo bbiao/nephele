@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ctripcorp/nephele/context"
-	"github.com/ctripcorp/nephele/log/output"
+	"github.com/bbiao/nephele/context"
+	"github.com/bbiao/nephele/log/output"
 )
 
 type Logger interface {

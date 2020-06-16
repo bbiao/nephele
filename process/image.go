@@ -1,7 +1,7 @@
 package process
 
 import (
-	"github.com/ctrip-nephele/gmagick"
+	"github.com/giantpoplar/gmagick"
 )
 
 const (

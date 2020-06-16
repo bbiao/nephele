@@ -3,9 +3,9 @@ package server
 import (
 	"github.com/gin-gonic/gin"
 
-	"github.com/ctripcorp/nephele/interpret"
-	"github.com/ctripcorp/nephele/process"
-	"github.com/ctripcorp/nephele/storage"
+	"github.com/bbiao/nephele/interpret"
+	"github.com/bbiao/nephele/process"
+	"github.com/bbiao/nephele/storage"
 
 	"context"
 )
